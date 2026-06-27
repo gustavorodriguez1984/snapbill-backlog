@@ -1,9 +1,10 @@
 # Convención FE-XX / BE-XX
-- **FE-XX**: historias frontend (issues con label `frontend`)
-- **BE-XX**: historias backend (issues con label `backend`)
-- El ID va en el **título** del issue: `[FE-42] CRUD bodegas`
+- **BE-XX** — historias de backend
+- **FE-XX** — historias de frontend
+- El ID va en el título: `[BE-01] …` o `[FE-01] …`
 - Milestone activo: **MVP-2**
-- Backlog canónico: issues de este repo (no duplicar en snapbill-frontend ni backend)
+- Backlog canónico: Issues de este repo (no duplicar en repos de código)
+- Enlazar pares: en BE poner `Frontend: #N` / en FE poner `Backend: #N`
 
 # Template de historia
 ## Historia
