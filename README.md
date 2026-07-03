@@ -7,6 +7,7 @@ Historias de usuario SnapBill (**backend** y **frontend**). El backlog vive en *
 | Qué | Dónde |
 |-----|--------|
 | Historias BE / FE | [Issues](https://github.com/gustavorodriguez1984/snapbill-backlog/issues) (`BE-##`, `FE-##`) |
+| **Pruebas manuales MVP-2 (QA)** | [docs/pruebas_manuales_mvp-2.md](./docs/pruebas_manuales_mvp-2.md) |
 | Contratos API (integración FE) | [docs/api-contracts/](./docs/api-contracts/README.md) |
 | Plan backend 30 días (MVP-2) | [docs/plan-backend-30-dias.md](./docs/plan-backend-30-dias.md) |
 | Convención de numeración | [docs/numbering.md](./docs/numbering.md) |
