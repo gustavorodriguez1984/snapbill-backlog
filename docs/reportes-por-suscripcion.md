@@ -118,4 +118,4 @@ Incluye todos los de Intermedia, más:
 ## 6. Issues relacionados
 
 - Backend: **BE-30** — Implementar reportes por suscripción y roles
-- Frontend: **FE-28** — Pantalla de reportes con filtros por plan y rol
+- Frontend: **[FE-28](https://github.com/gustavorodriguez1984/snapbill-backlog/issues/58)** — Pantalla de reportes con filtros por plan y rol
