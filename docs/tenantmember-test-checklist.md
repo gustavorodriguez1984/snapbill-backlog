@@ -8,7 +8,7 @@
 
 ## 🏢 EMPRESA
 
-- [ ] Ver perfil de empresa (`/company/profile`)
+- [x ] Ver perfil de empresa (`/company/profile`)
 
 ---
 
