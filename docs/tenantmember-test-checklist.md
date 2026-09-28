@@ -8,24 +8,23 @@
 
 ## 🏢 EMPRESA
 
-- [x ] Ver perfil de empresa (`/company/profile`)
+- [x] Ver perfil de empresa (`/company/profile`)
 
 ---
 
 ## 📋 CATÁLOGOS
 
-- [ ] Ver categorías (`/catalog/categories`)
-- [ ] Ver servicios (`/catalog/services`)
+- [x] Ver categorías (`/catalog/categories`)
+- [x] Ver servicios (`/catalog/services`)
 
 ---
 
 ## 🛒 VENTAS
 
 ### Facturar
-- [ ] Crear factura (`/sales/invoice`)
-- [ ] Ver facturas (`/sales/invoices`)
-- [ ] Editar factura
-- [ ] Imprimir factura PDF
+- [x] Crear factura (`/sales/invoice`)
+- [x] Ver facturas (`/sales/invoices`)
+- [x] Imprimir factura PDF
 
 ### Cotizaciones
 - [ ] Crear cotización (`/sales/quotes`)
