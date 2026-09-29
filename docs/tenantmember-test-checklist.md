@@ -40,18 +40,18 @@
 ## 🚚 COMPRAS
 
 ### Órdenes de compra
-- [ ] Crear orden de compra (`/purchases/orders`)
-- [ ] Ver órdenes de compra
-- [ ] Editar orden de compra
-- [ ] Imprimir orden de compra PDF
+- [x] Crear orden de compra (`/purchases/orders`)
+- [x] Ver órdenes de compra
+- [x] Editar orden de compra
+- [x] Imprimir orden de compra PDF
 
 ### Recepción de compra
-- [ ] Crear recibo de compra (`/purchases/receipt`)
-- [ ] Ver recibos de compra (`/purchases/receipts`)
-- [ ] Recibir mercadería
+- [x] Crear recepcion de compra (`/purchases/receipt`)
+- [x] Ver recepciones de compra (`/purchases/receipts`)
+- [x] Recibir mercadería
 
 ### Facturas proveedor
-- [ ] Registrar factura de proveedor (`/purchases/supplier-invoices`)
+- [x] Registrar factura de proveedor (`/purchases/supplier-invoices`)
 - [ ] Ver facturas de proveedor
 - [ ] Registrar pago a proveedor
 
