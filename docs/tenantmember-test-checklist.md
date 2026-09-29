@@ -27,12 +27,13 @@
 - [x] Imprimir factura PDF
 
 ### Cotizaciones
-- [ ] Crear cotización (`/sales/quotes`)
-- [ ] Ver cotizaciones
-- [ ] Convertir cotización a factura
+- [x] Crear cotización (`/sales/quotes`)
+- [x] Ver cotizaciones
+- [x] Convertir cotización a factura
+- [x] Imprimir cotización
 
 ### Clientes
-- [ ] Ver clientes (`/sales/customers`)
+- [x] Ver clientes (`/sales/customers`)
 
 ---
 
