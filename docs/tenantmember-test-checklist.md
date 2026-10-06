@@ -52,28 +52,28 @@
 
 ### Facturas proveedor
 - [x] Registrar factura de proveedor (`/purchases/supplier-invoices`)
-- [ ] Ver facturas de proveedor
-- [ ] Registrar pago a proveedor
+- [x] Ver facturas de proveedor
+- [x] Registrar pago a proveedor
 
 ### Devoluciones a proveedor
-- [ ] Crear devolución a proveedor (`/purchases/supplier-returns`)
-- [ ] Ver devoluciones a proveedor
+- [x] Crear devolución a proveedor (`/purchases/supplier-returns`)
+- [x] Ver devoluciones a proveedor
 
 ---
 
 ## 📦 INVENTARIO
 
 ### Kardex
-- [ ] Consultar kardex por producto (`/inventory/kardex`)
+- [x] Consultar kardex por producto (`/inventory/kardex`)
 
 ### Productos
-- [ ] Ver productos (`/inventory/products`)
-- [ ] Corregir movimientos de producto
+- [x] Ver productos (`/inventory/products`)
+- [x] Corregir movimientos de producto
 
 ### Transferencias
-- [ ] Crear transferencia entre bodegas (`/inventory/transfers`)
-- [ ] Ver transferencias
-- [ ] Imprimir transferencia
+- [x] Crear transferencia entre bodegas (`/inventory/transfers`)
+- [x] Ver transferencias
+- [x] Imprimir transferencia
 
 ### Ajustes
 - [ ] Crear ajuste de inventario (`/inventory/adjustments`)
