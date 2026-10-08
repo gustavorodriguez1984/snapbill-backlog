@@ -76,14 +76,15 @@
 - [x] Imprimir transferencia
 
 ### Ajustes
-- [ ] Crear ajuste de inventario (`/inventory/adjustments`)
-- [ ] Ver ajustes de inventario
-- [ ] Imprimir ajuste PDF
+- [x] Crear ajuste de inventario (`/inventory/adjustments`)
+- [x] Ver ajustes de inventario
+- [x] Ver detalle de ajuste de inventario
+- [x] Imprimir ajuste PDF
 
 ### Bodegas
-- [ ] Ver bodegas (`/inventory/warehouses`)
-- [ ] Gestionar stock por bodega
-- [ ] Transferir entre bodegas
+- [x] Ver bodegas (`/inventory/warehouses`)
+- [x] Gestionar stock por bodega
+- [x] Transferir entre bodegas
 
 ---
 
