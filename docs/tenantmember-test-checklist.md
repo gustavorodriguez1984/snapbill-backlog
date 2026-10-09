@@ -91,10 +91,10 @@
 ## 💰 FINANZAS
 
 ### Caja
-- [ ] Ver cajas (`/finance/cash-registers`)
-- [ ] Editar caja
-- [ ] Cerrar caja
-- [ ] Imprimir cierre de caja
+- [x] Ver cajas (`/finance/cash-registers`)
+- [x] Editar caja
+- [x] Cerrar caja
+- [x] Imprimir cierre de caja
 
 ### Cuentas Bancarias
 - [ ] Ver cuentas bancarias (`/finance/bank-accounts`)
